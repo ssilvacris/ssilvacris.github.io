@@ -20,7 +20,7 @@ https://github.com/ssilvacris/stock-risk-pca
 
 ## Education
 
-MSc in Data Science – Universidad Complutense de Madrid (Expected 2026)  
+MSc in Data Science – Universidad Complutense de Madrid 
 MBA in Finance – Fundação Getulio Vargas  
 BSc in Mechanical Engineering – Universidade Federal Fluminense
 
