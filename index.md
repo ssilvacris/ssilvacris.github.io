@@ -47,7 +47,7 @@ Skills used:
 
 ### Barcelona Public Water Fountains Analysis
 [![Open Project](https://img.shields.io/badge/Web-App-success?logo=githubpages)](https://ssilvacris.github.io/barcelona-water-distribution/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/barcelona-water-distribution/blob/main/notebook.ipynb) *(se tiver o código no GitHub)*
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/barcelona-water-distribution/blob/main/notebook.ipynb) 
 
 Data Science project using Open Data (2019–2024) to analyze the distribution and accessibility of public drinking fountains in Barcelona.
 
