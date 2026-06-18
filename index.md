@@ -45,6 +45,29 @@ Skills used:
 ---
 ## Data Visualization Projects 
 
+### Barcelona Public Water Fountains Analysis
+[![Open Project](https://img.shields.io/badge/Web-App-success?logo=githubpages)](https://ssilvacris.github.io/barcelona-water-distribution/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/barcelona-water-distribution/blob/main/notebook.ipynb) *(se tiver o código no GitHub)*
+
+Data Science project using Open Data (2019–2024) to analyze the distribution and accessibility of public drinking fountains in Barcelona.
+
+**Key Findings:**
+- **Eixample Paradox**: highest population but lowest per capita access
+- **Persistent Inequality**: distribution patterns remain stable over time
+- **Spatial Clustering**: higher density in tourist areas vs. peripheral districts
+
+Skills used:
+* Python (Pandas, Geopandas, Scikit-learn)
+* Spatial Analysis (Folium, Leaflet.js)
+* Data Visualization (Chart.js)
+* Interactive Web Mapping
+* Open Data Integration
+
+**[View Interactive Map](https://ssilvacris.github.io/barcelona-water-distribution/)**
+
+<img src="images/mappreview.png?raw=true"/>
+<img src="temporal_variability.png?raw=true"/>
+
 ### Indian Coal Mine Production
  [![Open Tableau](https://img.shields.io/badge/Tableau-Open_Tableau-green?logo=Jupyter)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/IndianCoalMineProduction_16117464503940/Dashboard)
 <img src="images/indian_coal.png?raw=true"/>
